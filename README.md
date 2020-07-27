@@ -1,2 +1,1 @@
-# GitHub-User-Insights-using-API
-The project involves collecting data about a user's profile and drawing insights from it.
+## Basic data collection + viz for GitHub User's repository commit info.
